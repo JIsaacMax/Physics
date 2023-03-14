@@ -5,6 +5,7 @@ var Engine = Matter.Engine,
     Runner = Matter.Runner,
     Bodies = Matter.Bodies,
     Composite = Matter.Composite;
+    World = Matter.World;
 
 // create an engine
 var engine = Engine.create();
